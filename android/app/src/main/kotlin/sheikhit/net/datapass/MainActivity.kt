@@ -1,0 +1,5 @@
+package sheikhit.net.datapass
+
+import io.flutter.embedding.android.FlutterActivity
+
+class MainActivity: FlutterActivity()
