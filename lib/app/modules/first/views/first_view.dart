@@ -14,6 +14,7 @@ class FirstView extends GetView<FirstController> {
       appBar: AppBar(
         title: const Text('FirstView'),
         centerTitle: true,
+        leading: Icon(Icons.access_alarm),
       ),
       body:  Center(
         child:InkWell(
